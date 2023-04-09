@@ -4,7 +4,7 @@
 * Create models that predict the probability of each type of sentiment for each tweet.
 * Design and explain the data science pipeline followed in this task involving Data preprocessing, Data Analysis, Feature Engineering, Modeling, and Evaluation.
 
-**Dataset:** https://drive.google.com/drive/folders/1bjjhdDZbHR4reXwbcrqLC3-1vYadas7r?usp=sharing
+**[Notebook Link]**(https://nbviewer.org/github/OfficialBishal/Modeling-Data-Analysis-for-the-Sentiment-dataset-provided-by-Prof.-Ugur-Kursuncu/blob/main/main.ipynb)
 
 **Professor:** Dr. Ugur Kursuncu
 
